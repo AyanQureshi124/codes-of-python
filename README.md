@@ -1,2 +1,2 @@
-# codes-of-python
-all the python codes that I learned
+# starting a python series
+I am uploading all python codes That I learned
